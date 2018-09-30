@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-my changes2
-=======
-sddsdsd
->>>>>>> c896ef533d629b0eccc775bcf7a252cc56caa767
+change from repo2
