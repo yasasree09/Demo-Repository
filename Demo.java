@@ -1,8 +1,8 @@
-test
-test2
-test3
-
-
-test
-test2
-test3
+public class Demo {
+	
+	public static vod main{
+		system.ot.println("This is first java programm...");
+		
+	}
+	
+}
