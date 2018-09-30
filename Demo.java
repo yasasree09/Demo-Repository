@@ -1,7 +1,7 @@
 public class Demo {
 	
-	public static vod main{
-		system.ot.println("This is first java programm...");
+	public static void main(String[] args){
+		System.out.println("This is first java programm...");
 		
 	}
 	
